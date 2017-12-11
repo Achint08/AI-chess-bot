@@ -1,0 +1,18 @@
+{
+  "name": "chess_bot_ai",
+  "version": "1.0.0",
+  "description": "A AI chess bot built as a part of AI project",
+  "main": "script.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server ./"
+  },
+  "author": "Achint Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  }
+}
